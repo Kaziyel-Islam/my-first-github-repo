@@ -1,0 +1,23 @@
+.flag{
+    width:100%;
+    height: 100vh;
+    Padding:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.square{
+    width: 600px;
+    height: 300px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+}
+.circel{
+    width:200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: red;
+}
